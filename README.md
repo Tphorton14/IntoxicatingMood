@@ -13,4 +13,5 @@ https://tphorton14.github.io/IntoxicatingMood/
 
 # App Demo
 
+![Demo of Game](https://github.com/Tphorton14/IntoxicatingMood/blob/master/gifs/pic_submit.gif)
 ![Demo of Game](https://github.com/Tphorton14/IntoxicatingMood/blob/master/gifs/drinks.gif)
